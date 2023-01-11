@@ -1,2 +1,0 @@
-mpicc -o $1 $1.c
-# for c++ use mpicxx
